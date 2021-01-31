@@ -1,0 +1,20 @@
+{
+  "devt": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quick-notes-devt-164411-authRole",
+      "UnauthRoleArn": "arn:aws:iam::672137214613:role/amplify-quick-notes-devt-164411-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::672137214613:role/amplify-quick-notes-devt-164411-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-quick-notes-devt-164411-deployment",
+      "UnauthRoleName": "amplify-quick-notes-devt-164411-unauthRole",
+      "StackName": "amplify-quick-notes-devt-164411",
+      "StackId": "arn:aws:cloudformation:ap-south-1:672137214613:stack/amplify-quick-notes-devt-164411/8c287600-63e3-11eb-bba8-020c1c5818d0",
+      "AmplifyAppId": "d29x0940fs93b6"
+    },
+    "categories": {
+      "auth": {
+        "quicknotes9506fafe": {}
+      }
+    }
+  }
+}
